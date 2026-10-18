@@ -120,9 +120,4 @@ This experiment demonstrates the implementation of first-order and second-order 
 The experiment helps compare the behavior of different edge detection methods and understand their applications in digital image processing.
 ```
 
-**Before committing:** make sure the `outputs/edge_detection_results.png` file exists. It is generated when you run `edge_detection.py`.
-
-Suggested commit message:
-
-`Add Lab 4 edge detection README and documentation`
 
